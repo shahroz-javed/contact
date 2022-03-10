@@ -1,6 +1,6 @@
 <?php
 
-namespace Shahroz\Contact\Mail;
+namespace ShahrozMian\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

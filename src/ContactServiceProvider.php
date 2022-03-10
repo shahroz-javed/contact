@@ -1,6 +1,6 @@
 <?php
 
-namespace Shahroz\Contact;
+namespace ShahrozMian\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

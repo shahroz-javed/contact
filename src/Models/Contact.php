@@ -1,6 +1,6 @@
 <?php
 
-namespace Shahroz\Contact\Models;
+namespace ShahrozMian\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

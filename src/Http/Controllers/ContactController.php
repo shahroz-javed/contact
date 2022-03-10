@@ -1,12 +1,12 @@
 <?php
 
-namespace Shahroz\Contact\Http\Controllers;
+namespace ShahrozMian\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Shahroz\Contact\Mail\ContactMailable;
-use Shahroz\Contact\Models\Contact;
+use ShahrozMian\Contact\Mail\ContactMailable;
+use ShahrozMian\Contact\Models\Contact;
 
 class ContactController extends Controller
 {
